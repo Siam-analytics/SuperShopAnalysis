@@ -55,5 +55,5 @@ The dataset (`super_shop_dataset.csv`) contains 5,000 records with 30 columns, i
 
 1. **Clone the repository**:
    ```bash
-   git clone [your-repository-url.git]
+   git clone [https://github.com/Siam-analytics/SuperShopAnalysis.git]
  
