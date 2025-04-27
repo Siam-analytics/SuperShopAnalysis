@@ -42,4 +42,18 @@ The dataset (`super_shop_dataset.csv`) contains 5,000 records with 30 columns, i
 ## 📈 Key Visualizations
 - **Category Vs Stock_Value**: A bar chart showing Stock_Value for each category. 
 - **Brand Vs Sold_Quantity**: A column chart showing Sold_Quantity for each Brand
-- **Corr. Between Discount and Sold_Quantity among different Brands**: A scatter plot showing the corr. among different matrices 
+- **Corr. Between Discount and Sold_Quantity among different Brands**: A scatter plot showing the corr. among different matrices
+
+  ## 🚀 How to Run This Analysis
+
+### Prerequisites
+- Python 3.7+
+- Jupyter Notebook
+- Required Python libraries
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone [your-repository-url.git]
+ 
