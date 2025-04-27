@@ -40,6 +40,6 @@ The dataset (`super_shop_dataset.csv`) contains 5,000 records with 30 columns, i
 - **Completed Orders**: 1,674
 
 ## 📈 Key Visualizations
--**Category Vs Stock_Value: A bar chart showing Stock_Value for each category. 
--**Brand Vs Sold_Quantity: A column chart showing Sold_Quantity for each Brand
--**Corr. Between Discount and Sold_Quantity among different Brands: A scatter plot showing the corr. among different matrices 
+-**Category Vs Stock_Value**: A bar chart showing Stock_Value for each category. 
+-**Brand Vs Sold_Quantity**: A column chart showing Sold_Quantity for each Brand
+-**Corr. Between Discount and Sold_Quantity among different Brands**: A scatter plot showing the corr. among different matrices 
